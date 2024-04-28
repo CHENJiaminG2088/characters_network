@@ -31,4 +31,4 @@ When I import the edge file into gephi, I get an error message.
 
 ## next steps
 1.Resolved the import issue of edge files
-2.
+2.Consider multiple articles with the same character name as nodes, and edges represent the co-occurrence of characters with the same name in different stories.
