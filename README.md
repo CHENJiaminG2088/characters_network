@@ -19,7 +19,7 @@
 I try to use the name of the character as the node, and the co-occurrence of the two names as the edge, and the weight of the edge is the number of times the two names appear together within a certain text limit in the article.
 
 ## the baby network of one article:
-https://github.com/CHENJiaminG2088/characters_network/blob/main/screenshot_193815.png
+![image](https://github.com/CHENJiaminG2088/characters_network/blob/main/screenshot_193815.png)
 在这个网络中，
 
 ## Introduction of the files:
