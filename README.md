@@ -1,8 +1,8 @@
 ## Report for fanfiction data collection, sample article preprocessing.
 
-This report addresses the current situation regarding:
-1.The results of using BookNLP to extract named entities.
-2.Counting characters' co-occurrence based on the occurrence of names within a certain window size.
+This report addresses the current situation regarding:  
+1.The results of using BookNLP to extract named entities.  
+2.Counting characters' co-occurrence based on the occurrence of names within a certain window size.  
 3.Interpretation of the baby network.
 ## Collecting data
 1. Type "the rocky horror picture show" into the search bar, and 758 results appear.
