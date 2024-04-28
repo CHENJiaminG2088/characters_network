@@ -16,5 +16,11 @@
 4. Then use the code that extracts the name of the character and counts the number of occurrences to extract the name of the character in this article and the number of occurrences
 5. I manually enter the name into the code that calculates the co-occurrence, and get the number of times the two names co-occur within a certain text length.
 
-6. ## Convert the result into a file of points and edges'
+6. Convert the result into files of nodes and edges.
 I try to use the name of the character as the node, and the co-occurrence of the two names as the edge, and the weight of the edge is the number of times the two names appear together within a certain text limit in the article.
+
+## introduction of the files:
+1.Character name recognition and count.ipynb: Code for counting appreance of characters'name and coocurence in certan text window size.
+2.booknlp_10_Rocky.ipynb: Code for using booknlp processes ten articles.
+3.output_Ao3_10: the output of using booknlp for ten articles
+4.
