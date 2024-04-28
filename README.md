@@ -19,8 +19,16 @@
 6. Convert the result into files of nodes and edges.
 I try to use the name of the character as the node, and the co-occurrence of the two names as the edge, and the weight of the edge is the number of times the two names appear together within a certain text limit in the article.
 
-## introduction of the files:
-1.Character name recognition and count.ipynb: Code for counting appreance of characters'name and coocurence in certan text window size.
-2.booknlp_10_Rocky.ipynb: Code for using booknlp processes ten articles.
-3.output_Ao3_10: the output of using booknlp for ten articles
-4.
+## Introduction of the files:
+1.Character name recognition and count.ipynb: Code for counting appearances of characters' names and co-occurrence within a certain text window size.  
+2.booknlp_10_Rocky.ipynb: Code for processing ten articles using BookNLP. 
+3.output_Ao3_10: The output of using BookNLP for ten articles.  
+4.edges_An_Unlikely_Comfor.csv: The edge file contains the ID of the person's name, and the weight is the number of times the two persona names appear together within a specific text length.  
+5.nodes_An_Unlikely_Comfor：The node file contains the name and ID of the character, and the "count" is the total number of times the name of the character appears in the text.
+
+## problems:
+When I import the edge file into gephi, I get an error message.
+
+## next steps
+1.Resolved the import issue of edge files
+2.
