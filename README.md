@@ -1,4 +1,4 @@
-## Report for fanfiction data collection, sample article preprocessing.
+## Report for fanfiction data collection, sample texts preprocessing.
 
 This report addresses the current situation regarding:  
 1.The results of using BookNLP to extract named entities.  
@@ -10,7 +10,7 @@ This report addresses the current situation regarding:
 
 ## procesing data:
 1. Use Python to convert PDF to txt format.
-2. Use booknlp to process the article: In this step, I am currently trying to process one of the articles, and the following content is related to processing this article
+2. Use booknlp to process the texts: In this step, I am currently trying to process one of the articles, and the following content is related to processing this article
 3. Use booknlp to extract a series of files and store them in the output file
 4. Then use the code that extracts the name of the character and counts the number of occurrences to extract the name of the character in this article and the number of occurrences
 5. I manually enter the name into the code that calculates the co-occurrence, and get the number of times the two names co-occur within a certain text length.
